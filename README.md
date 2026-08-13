@@ -1,21 +1,149 @@
-# 💫 About Me:
-I’m currently working on<br><br>Machine Learning & AI-based projects<br><br>Data-driven applications<br><br>Improving problem-solving skills using DSA & Python<br>👯 I’m looking to collaborate on<br><br>AI / ML projects<br>Python-based applications<br>Beginner-friendly open-source projects<br><br>🤝 I’m looking for help with<br>Advanced Machine Learning concepts<br><br>Model optimization & real-world deployment<br>Open-source contribution guidance<br>🌱 I’m currently learning<br>Machine Learning & Deep Learning<br><br>Data Structures & Algorithms<br><br>Cloud & Generative AI tools<br>💬 Ask me about<br>Python programming<br>Machine Learning basics<br>AI tools & learning resources<br><br>College tech projects<br>⚡ Fun fact<br>I believe learning never stops, and even small projects can create a big impact 🚀✨<br><br>
+<div align="center">
 
+<!-- Header Dynamic Animated Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21,31&height=220&section=header&text=Hi%20there,%20I'm%20Vaishnavi%20Khatri%20👋&fontSize=38&fontColor=ffffff&animation=twinkling&fontAlignY=38" width="100%" />
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vaishnavi_khatri2005) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vaishnavi-khatri-19256a298) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vaishukhatri1234@gmail.com) 
+<!-- Animated Dynamic Typing Subtitle -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%F0%9F%92%BB;AI+%26+Machine+Learning+Enthusiast+%F0%9F%A4%96;Data-Driven+Systems+Architect+%E2%9A%A1;Turning+Ideas+into+Impactful+Code+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Vaishnavi-khatri2005&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Vaishnavi-khatri2005&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishnavi-khatri2005&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<!-- Profile View Counter & Social Badges -->
+[![Profile Views](https://komarev.com/ghpvc/?username=Vaishnavi-khatri2005&style=flat-square&color=8A2BE2)](https://github.com/Vaishnavi-khatri2005)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vaishnavi%20Khatri-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vaishnavi-khatri-19256a298)
+[![Instagram](https://img.shields.io/badge/Instagram-@vaishnavi__khatri2005-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/vaishnavi_khatri2005)
+[![Email](https://img.shields.io/badge/Email-vaishukhatri1234@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vaishukhatri1234@gmail.com)
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Vaishnavi-khatri2005&icon=0&color=0)](https://visitcount.itsvg.in)
 
+### 💫 About Me
 
+```yaml
+developer:
+  name: Vaishnavi Khatri
+  location: India 🇮🇳
+  education: AIML / Computer Science Engineering
+  interests: [Artificial Intelligence, Computer Vision, Full-Stack Development, Distributed Systems]
+  currently_building: Real-time intelligent analytics & AI-powered applications
+  learning: Advanced Deep Learning architectures & Scalable Cloud deployments
+  philosophy: "Learning never stops, and every small commit brings us closer to a big impact 🚀✨"
+```
+
+- 🔭 **Current Focus:** Developing **[Retail CCTV Analytics](https://github.com/Vaishnavi-khatri2005/retail-cctv-analytics)** & **[InfraVision-AI](https://github.com/Vaishnavi-khatri2005/InfraVision-AI)**
+- 💡 **Passionate About:** Crafting high-performance ML pipelines, Computer Vision, and responsive web applications.
+- 🤝 **Open to Collaborate on:** Cutting-edge AI/ML projects, Open Source tools, and innovative engineering challenges.
+- 💬 **Ask me about:** Python, JavaScript, Java, React, OpenCV, Machine Learning algorithms, and DSA.
+- ⚡ **Fun Fact:** Fueled by curiosity, problem solving, and endless cups of chai ☕!
+
+---
+
+### 🛠️ Tech Stack & Arsenal
+
+<div align="center">
+
+#### 💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,java,c,cpp,typescript,html,css" alt="Languages" />
+</p>
+
+#### ⚛️ Frameworks & Web Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,bootstrap,fastapi" alt="Frameworks" />
+</p>
+
+#### 🤖 AI, Machine Learning & Data Science
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn,opencv" alt="AI and ML" />
+</p>
+
+#### 🗄️ Databases, Cloud & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,gcp,azure,aws,docker,git,github,vscode,figma" alt="Tools and Cloud" />
+</p>
+
+</div>
+
+---
+
+### 🌟 Featured Projects
+
+| Project | Description | Tech Stack | Repository |
+| :--- | :--- | :---: | :---: |
+| 📹 **[Retail CCTV Analytics](https://github.com/Vaishnavi-khatri2005/retail-cctv-analytics)** | Real-time shopper intelligence, footfall tracking & heatmaps from CCTV streams. | `JavaScript` `Node.js` `Vision AI` | [View Project →](https://github.com/Vaishnavi-khatri2005/retail-cctv-analytics) |
+| 👁️ **[InfraVision-AI](https://github.com/Vaishnavi-khatri2005/InfraVision-AI)** | Computer Vision & AI-driven inspection platform for smart infrastructure monitoring. | `Python` `AI/ML` `FullStack` | [View Project →](https://github.com/Vaishnavi-khatri2005/InfraVision-AI) |
+| 📈 **[Stock Price Predictor](https://github.com/Vaishnavi-khatri2005/Stock-Price-Prediction-using-Machine-Learning)** | End-to-end ML model analyzing market trends, technical indicators & price movements. | `Python` `Scikit-Learn` `Pandas` | [View Project →](https://github.com/Vaishnavi-khatri2005/Stock-Price-Prediction-using-Machine-Learning) |
+| 📝 **[Collaborative Doc Editor](https://github.com/Vaishnavi-khatri2005/collaborative-doc-edito)** | Real-time collaborative document editing tool with live synchronization. | `Java` `WebSockets` | [View Project →](https://github.com/Vaishnavi-khatri2005/collaborative-doc-edito) |
+| 🌿 **[EcoTrack](https://github.com/Vaishnavi-khatri2005/ecotrack)** | Environmental footprint and sustainability analytics tracking dashboard. | `JavaScript` `CSS` `HTML` | [View Project →](https://github.com/Vaishnavi-khatri2005/ecotrack) |
+
+---
+
+### 📊 GitHub Activity & Metrics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Vaishnavi-khatri2005&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="175" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishnavi-khatri2005&layout=compact&theme=radical&hide_border=true" height="175" alt="Top Languages" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaishnavi-khatri2005&theme=radical&hide_border=true" alt="GitHub Streak" />
+
+<br/><br/>
+
+<!-- Interactive Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vaishnavi-khatri2005&theme=tokyo-night&hide_border=true&area=true" width="98%" alt="Activity Graph" />
+
+</div>
+
+---
+
+### 🐍 Contribution Graph Animation
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vaishnavi-khatri2005/Vaishnavi-khatri2005/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vaishnavi-khatri2005/Vaishnavi-khatri2005/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Vaishnavi-khatri2005/Vaishnavi-khatri2005/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  </picture>
+</div>
+
+---
+
+### ✍️ Daily Dev Motivation & Quotes
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="90%" alt="Dev Quote" />
+</div>
+
+---
+
+### 📬 Let's Connect!
+
+<div align="center">
+
+<a href="https://linkedin.com/in/vaishnavi-khatri-19256a298" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="mailto:vaishukhatri1234@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+&nbsp;
+<a href="https://instagram.com/vaishnavi_khatri2005" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+&nbsp;
+<a href="https://github.com/Vaishnavi-khatri2005">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+<br/><br/>
+
+<!-- Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21,31&height=120&section=footer" width="100%" />
+
+</div>
